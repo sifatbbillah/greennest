@@ -1,3 +1,5 @@
+import { Link } from "react-router";
+
 const Singlecard = ({ plant, onDetailsClick }) => {
   return (
     <div className="border rounded-xl p-4 shadow-md hover:shadow-lg transition duration-300 bg-white flex flex-col justify-between">
@@ -11,12 +13,9 @@ const Singlecard = ({ plant, onDetailsClick }) => {
         <p className="text-sm text-gray-500 mb-1">{plant.category}</p>
         <p className="font-bold text-lg text-gray-800 mt-2">${plant.price}</p>
       </div>
-      <button
-        onClick={() => onDetailsClick?.(plant)}
-        className="mt-4 bg-green-600 text-white py-2 px-4 rounded-lg hover:bg-green-700 transition duration-200"
-      >
-        View Details
-      </button>
+      <Link to={`/plantDetails/${plant.plantId}`}>
+      <button className="btn ">Details</button>
+      </Link>
     </div>
   );
 };

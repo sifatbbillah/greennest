@@ -32,9 +32,10 @@ import Profile from "../Component/Profile";
             element:<Signup></Signup>
          },
          {
-          path:'/subDetails/:id',
+          path:'/plantDetails/:id',
+     
           element:<PrivateRut> <SubDetails></SubDetails> </PrivateRut>,
-          loader:()=>fetch("/sub_plan.json")
+         
          },
         
          {
