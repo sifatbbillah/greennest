@@ -15,7 +15,7 @@ const Login = () => {
   const from = location?.state?.from
 
 
-  console.log(from)
+  // console.log(from)
 
   const navigate = useNavigate()
 

@@ -8,6 +8,7 @@ import SubDetails from "../Component/SubDetails";
 import PrivateRut from "../PrivateRoute/PrivateRut";
 import Profile from "../Component/Profile";
 import Allplants from "../componentes2/Allplants";
+import Card from "../componentes2/Card";
 
 export const router = createBrowserRouter([
   {
@@ -51,7 +52,11 @@ export const router = createBrowserRouter([
       },
       {
         path:"/allplant",
-        element:<Allplants></Allplants>
+        element:<PrivateRut><Allplants></Allplants></PrivateRut>
+      },
+      {
+        path:"/card",
+        element:<Card></Card>
       }
     ],
   },

@@ -54,8 +54,9 @@ const Navbar = () => {
                         <NavLink to='/' className='btn'>Home</NavLink>
                           <NavLink to='/allplant' className='btn'>All Plant</NavLink>
                         {
-                            userprofile?.email && <NavLink to='/download' className='btn'>Download</NavLink>
+                            userprofile?.email && <NavLink to='/card' className='btn'>Card</NavLink>
                         }
+                       
                          
                         {
                             userprofile?.email && <NavLink to='/profile' className='btn'>Your-Profile</NavLink>
