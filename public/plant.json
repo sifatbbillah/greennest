@@ -1,0 +1,122 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://images.pexels.com/photos/1002703/pexels-photo-1002703.jpeg?cs=srgb&dl=pexels-asphotography-1002703.jpg&fm=jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Peace Lily",
+    "category": "Flowering Plant",
+    "price": 22,
+    "rating": 4.7,
+    "availableStock": 15,
+    "careLevel": "Medium",
+    "description": "Elegant white flowers and glossy leaves make it perfect for bright rooms.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJOQ8aed0Wk3DwZ3dB8dgF17w1eYdKLzZuw&s",
+    "providerName": "GreenNest Nursery"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 14,
+    "rating": 4.6,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "Fast-growing houseplant that removes toxins and produces baby offshoots.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX261bPIkuLJj60aDdkSk5jmC0cNpOMDkvXg&s",
+    "providerName": "Leafy Haven"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Aloe Vera",
+    "category": "Medicinal",
+    "price": 16,
+    "rating": 4.9,
+    "availableStock": 25,
+    "careLevel": "Easy",
+    "description": "Succulent known for its healing gel and minimal watering needs.",
+    "image": "https://i.postimg.cc/example4.png",
+    "providerName": "Nature Bloom"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Indoor Tree",
+    "price": 35,
+    "rating": 4.5,
+    "availableStock": 8,
+    "careLevel": "Hard",
+    "description": "A trendy large-leaf plant that makes a bold statement in living rooms.",
+    "image": "https://i.postimg.cc/example5.png",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 6,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 20,
+    "rating": 4.8,
+    "availableStock": 18,
+    "careLevel": "Easy",
+    "description": "Tolerates neglect and low light, making it ideal for offices and corners.",
+    "image": "https://i.postimg.cc/example6.png",
+    "providerName": "Leaf & Root"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Areca Palm",
+    "category": "Indoor Tree",
+    "price": 30,
+    "rating": 4.6,
+    "availableStock": 12,
+    "careLevel": "Medium",
+    "description": "Adds a tropical touch and acts as a natural humidifier indoors.",
+    "image": "https://i.postimg.cc/example7.png",
+    "providerName": "GreenSoul Plants"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Money Plant (Pothos)",
+    "category": "Hanging Plant",
+    "price": 12,
+    "rating": 4.9,
+    "availableStock": 30,
+    "careLevel": "Easy",
+    "description": "Symbol of prosperity and one of the easiest trailing houseplants.",
+    "image": "https://i.postimg.cc/example8.png",
+    "providerName": "Urban Jungle Co."
+  },
+  {
+    "plantId": 9,
+    "plantName": "Boston Fern",
+    "category": "Hanging Plant",
+    "price": 15,
+    "rating": 4.4,
+    "availableStock": 22,
+    "careLevel": "Medium",
+    "description": "Beautiful feathery fronds that love humidity and filtered light.",
+    "image": "https://i.postimg.cc/example9.png",
+    "providerName": "Plantify Hub"
+  },
+  {
+    "plantId": 10,
+    "plantName": "Rubber Plant",
+    "category": "Indoor Tree",
+    "price": 28,
+    "rating": 4.7,
+    "availableStock": 14,
+    "careLevel": "Medium",
+    "description": "Glossy dark green leaves that purify air and add elegance to interiors.",
+    "image": "https://i.postimg.cc/example10.png",
+    "providerName": "EcoLeaf Garden"
+  }
+]
